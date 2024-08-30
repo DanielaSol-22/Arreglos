@@ -38,7 +38,8 @@ public class Reordenar {
         String result = reorderSentence.reorder(words);
 
         // Imprimir el resultado
-        System.out.println(result); // Salida esperada: "esto esta muy bien"
+        System.out.println(result); 
+        
     }
 }
 
